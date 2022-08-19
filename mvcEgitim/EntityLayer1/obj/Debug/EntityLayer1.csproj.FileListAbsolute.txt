@@ -1,0 +1,15 @@
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityLayer1.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityLayer1.pdb
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\obj\Debug\EntityLayer1.csproj.AssemblyReference.cache
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\obj\Debug\EntityLayer1.csproj.CoreCompileInputs.cache
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\obj\Debug\EntityLayer1.csproj.CopyComplete
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\obj\Debug\EntityLayer1.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\obj\Debug\EntityLayer1.pdb
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityLayer1.dll.config
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityFramework.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityFramework.xml
+C:\Users\ismailKocabey\source\repos\mvcEgitim\EntityLayer1\bin\Debug\EntityFramework.SqlServer.xml
